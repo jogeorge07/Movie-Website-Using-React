@@ -1,3 +1,6 @@
+![screencapture-localhost-3000-2024-05-24-12_49_41](https://github.com/jogeorge07/Movie-Website-Using-React/assets/86243195/0bafda66-17b2-48ba-9817-2adfa09a5211)
+
+![screencapture-localhost-3000-2024-05-24-12_48_50](https://github.com/jogeorge07/Movie-Website-Using-React/assets/86243195/e7d499a2-9521-4da2-b445-6855bc0df44f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
